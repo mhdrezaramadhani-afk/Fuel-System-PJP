@@ -1,6 +1,6 @@
 {
-  "name": "Fuel System PT. PJP",
-  "short_name": "Fuel PJP",
+  "name": "PT. Perenial Jaya Perkasa",
+  "short_name": "FuelSystem",
   "description": "Aplikasi Manajemen Bahan Bakar",
   "start_url": "./index.html",
   "display": "standalone",
